@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The danger of treaties with popish-spirits, or, A seasonable caveat and premonition to our present most renowned Parliament touching the frail trust in the vowes and protestations of the popishly-affected princes for peace and reconcilement with their Protestant subjects.</title>
+            <author>Vicars, John, 1579 or 80-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71207</idno>
+            <idno type="STC">Wing V299</idno>
+            <idno type="STC">ESTC R4368</idno>
+            <idno type="EEBO-CITATION">11956910</idno>
+            <idno type="OCLC">ocm 11956910</idno>
+            <idno type="VID">51533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 232:E23, no 15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The danger of treaties with popish-spirits, or, A seasonable caveat and premonition to our present most renowned Parliament touching the frail trust in the vowes and protestations of the popishly-affected princes for peace and reconcilement with their Protestant subjects.</title>
+                  <author>Vicars, John, 1579 or 80-1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Rothwell,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed I. V.: John Vicars.</note>
+                  <note>Attributed to John Vicars.  Cf. BM.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:51533:1" rendition="simple:additions"/>
+            <head>The danger of TREATIES WITH POPISH-SPIRITS.</head>
+            <head type="sub">OR, A ſeaſonable Caveat, and Premonition to our preſent moſt renowned PARLIAMENT, touching the frail truſt in the Vowes and Proteſtations of Popiſhly-affected Princes, for Peace and Reconcilement with their Proteſtant Subjects.</head>
+            <epigraph>
+               <q>Abundans Cautela non nocet.</q>
+            </epigraph>
+            <p>ALthough it muſt needs be granted, that (as the Poet ſings) <hi>pax eſt dul<g ref="char:EOLhyphen"/>ciſſimareru<g ref="char:cmbAbbrStroke">̄</g>;</hi> Peace (eſpecially married to truth) is a moſt ſweet &amp; pre<g ref="char:EOLhyphen"/>cious temporall bleſſing, and a moſt amiable and deſirable thing; And that, that of the Apoſtle, <hi>Ro.</hi> 12. 18. is moſt true, <hi>If it be poſſible, as much as in you is, have peace with all men;</hi> And although I therfore do moſt juſtly and ingenuouſly acknowledge, that our moſt renowned Parliamentary Worthies doe moſt holily and honourably both before God and all good men in en<g ref="char:EOLhyphen"/>tring into Treaties and Propoſitions for peace, and thereby doe moſt pru<g ref="char:EOLhyphen"/>dently and piouſly <hi>l<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>berare animas ſuas,</hi> and ſtop the ſlanderous mouthes of malignants: yet it muſt be as neceſſarily granted that it is a moſt eſſentiall part of prudence, to be moſt carefull and circumſpect in the managing the reſults and ſettlement thereof unto ſuch ſafe and ſecure iſſues for ſucceeding times, and (if it be poſſible) for the more certaine avoyding of future dange<g ref="char:EOLhyphen"/>rous after-claps, as themſelves, and the Subject may receive certaine content and comfort therein for future times, eſpecially after a promiſed and (though moſt deeply) proteſted reconciliation with popiſhly affected, and atheiſti<g ref="char:EOLhyphen"/>cally principled Malignants formerly offended with their Proteſtant Peers and people. In which reſpect, O the moſt ſad and ſanguine, O the baſe and bloody after claps, and calamitous, cataſtrophes, and moſt lamentable events which have followed and fallen upon the plain and honeſt-hearted peace<g ref="char:EOLhyphen"/>defiring people and Proteſtant Subjects of popiſh Princes, under the name and vicious vizard of pretended and proteſted peace, forſooth, end recon<g ref="char:EOLhyphen"/>cilement with them! Moſt worthily, therefore, ſaies the fountain of truth, the Spirit of God, by the pious Prophet <hi>David,</hi> though he himſelfe was a very vertuous and holy King, <hi>Put not any truſt in Princes, nor in any ſonnes of
+<pb n="2" facs="tcp:51533:2"/>
+men.</hi> Which is moſt true, not onely in reſpect of the brevity and ſhortneſſe of their lives, but alſo of the inconſtancy of their words and promiſes; for; how did <hi>Ioab</hi> one of <hi>Davids</hi> Princes or famous war-worthies, under ſhew and ſemblance of pretended love and peacefull embracements, moſt treache<g ref="char:EOLhyphen"/>rouſly murther both <hi>Abner</hi> and <hi>Amaſa,</hi> two other moſt renowned worthies of Iſrael, whom, otherwiſe, in open hoſtility he could hardly have wronged? And how was that ancient and famous City of Troy (ſo renowned by Poets pens, eſpecially <hi>Homer</hi> and <hi>Virgil;</hi> we will not diſpute the authentickneſſe of the hiſtory, but onely make uſe of the morality of it) ſodainely, even in one night, ſo ruinated and depopulated, that as they ſang of it, <hi>Seges, nunc, ubi Trojaſuit.</hi> And all under the <hi>Sinonian</hi> deceit, and fraudulent pretence of a holy (or rather hollow) horſe, by <hi>Pallas</hi> or Pelaſgan art and policy built and brought into the walls of Troy; which in one night, I ſay, utterly ruina<g ref="char:EOLhyphen"/>ted that moſt renowned City, which ten yeers ſiege and war before could never conquer or overcome: So that, ſeeing the Trojans would not timely liſten to <hi>Laocoons</hi> counſell or wary watch-word, <hi>Timeo Danaos &amp; dona fe<g ref="char:EOLhyphen"/>rentes,</hi> they were therefore made a proverb to poſterity, by a <hi>Serò ſapiunt Phryges.</hi>
+            </p>
+            <p>But, what need ſo far fetcht and ancient examples, ſince we have ſo many manifeſt and remarkable ones of this kind, more modern and neerer home? Wherof (for brevities ſake) I wil only inſtance in two moſt eminent ones, and moſt pertinent to our preſent purpoſe; the one out of France, the other out of Germany: both which being ſeriouſly read and ruminated, let the wiſe reader rightly judge, and truly tell me, whether our preſent moſt renowned and pious Parliament, both eminent and excellent Lords and Commons, yea and the moſt loyall Senate, and City of London too, with them, have not extraordinary need and great cauſe to take ſpeciall care and caution, with all Chriſtian providentiall wiſdome and circumſpection, as our good and moſt wiſe God (being firſt ſought unto) ſhall enable them, how they make a peace, and how farre they will truſt and reſt on the faireſt promiſes, and profoundeſt Proteſtations, that Princes or Courtiers can make unto them, eſpecially, as I ſaid, being popiſhly, or atheiſtically, and malignantly princi<g ref="char:EOLhyphen"/>pled, and in their deepeſt and deereſt relations and engagements addicted and devoted to Popery, Atheiſm, and Malignant, enemies of true piety and honeſty.</p>
+            <p>The firſt ſerious example (then) moſt pregnant to this purpoſe, ſhall be that of <hi>Charles</hi> the ninth, King of France, <hi>Anno</hi> 1571 the yeere of that moſt execrable, baſe and bloody maſſacre at Paris. Oh the moſt horrid and hateful, the moſt deep and deviliſh diſſimulation of the King, and his (then) Queen<g ref="char:EOLhyphen"/>mother, meerly and mainly under a colour of love and reconcilement to that moſt famous Admirall of France (a moſt wiſe, magnanimous and pious Pro<g ref="char:EOLhyphen"/>teſtant,
+<pb n="3" facs="tcp:51533:2"/>
+yea, (under God) the maine pillar and prop of the French Prote<g ref="char:EOLhyphen"/>ſtants) and by deepeſt vowes and promiſes of peace and high priviledges and immunities, for his ſake, to all the reſt of the proteſtants in France: And yet all this onely to enſnare and entrap this moſt renowned Admirall (and with him the reſt of the prime proteſtant Peers of France) into their pitfall at Paris, there the more commodiouſly, (or rather accurſedly) to maſſacre and murther them, (as afterwards they did) in a moſt barbarous and butcherly manner; but to give you a few moſt materiall particulars for the moſt full clearing of the thing. Oh how did this King <hi>Charles,</hi> at the firſt, (with moſt exquiſite Machivilian hypocriſie) bind himſelfe by moſt deep vowes and proteſtations, yea and execrations of himſelfe, on the contrary, to give the Admirall full aſſurance of his faire and cleare intent and reſolution to ſettle and confirm all acts and edicts, and all deſiderable priviledges, for the ad<g ref="char:EOLhyphen"/>vancement and confirmation of the league and religion of all his proteſtant Subjects in France, backt moſt firmly (ſo ſee to) with the marriage of his daughter to the young King of Navar, a proteſtant Prince, and by this meanes alſo in a ſpeciall manner got the foreſaid renowned Admirall, the King of Navarr, the young Prince of Conde, another Proteſtant Peere of France, and all or moſt of the moſt eminent proteſtant Nobility of France, joyfully and unjelouſly to aſſemble together at Paris, (the ap<g ref="char:EOLhyphen"/>pointed Theatre of the enſuing Tragedy) for the more ſolemn cele<g ref="char:EOLhyphen"/>bration of this miſchievous marriage; How did the King alſo at this time (to take away all jealouſies and miſtruſts) receive the ſaid Admirall (being now, by theſe wiles drawne to Court) with all French complements, and eve<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> extream demonſtrations of love and embracements, yea with large and liberall recompences of all the Admirals loſſes, ſuſtained in his wars, by the gift of 100000 Frankes; beſides the preſent grant (for one whole yeere) of all the revenues which his brother the Cardinall of Chaſtillon enjoyed, be<g ref="char:EOLhyphen"/>ing then lately deceaſed in England, gave him a place in his privy Councell, adviſed with him touching the managing of his greateſt wars, then in Flan<g ref="char:EOLhyphen"/>ders, and made ſhew to be governed by his onely adviſe and counſell; yea, honoured him with the moſt plauſible name of <hi>Father,</hi> and treated with him ſo familiarly, that the popiſh party began to murmur and ſay that <hi>Charles</hi> their King not onely favoured that Hugonet, (for ſo in France they nick<g ref="char:EOLhyphen"/>name the Proteſtants, as our malignants and papiſts in England call true Chriſtians, Puritans and Roundheads) but would, they ſcared, ſhortly himſelf alſo become a Hugonet; yea, I ſay, ſo extraordinarily and ſo extreamly (as I may ſay) did the King ſeem, thus, to hug and honour this moſt Noble and renowned, grave and godly Admirall, to free him from all ſuſpitious and relucting jealouſies, which ſometimes were put into him, by the adviſement of ſome of his deare and faithfull proteſtant friends, that (like honeſt hearted
+<pb n="4" facs="tcp:51533:3"/>
+good <hi>Gedaliah,</hi> touching <hi>Iſmaels</hi> treacherie) he could, now, taſte no admo<g ref="char:EOLhyphen"/>nitions, or feare any unfaithfulneſſe, his honeſt-meaning ſpirit was ſo tranſ<g ref="char:EOLhyphen"/>ported with the Kings counterfeit countenance and bewitching words. But now ſee, how (when all things were ripe for the enſuing wicked worke) all thoſe favours and faire worde, all K. <hi>Charles</hi> his deep vowes, promiſes and proteſtations proved but ſo many ſugred baits to ſwallow down, the ſmooth<g ref="char:EOLhyphen"/>lier, the Kings moſt baſe and bitter pils of horrid and inhumane treachery. For, when as, I ſay, the deſigned day was now come, and all things ready for plotted and reſolved ruine and deſtruction; Firſt, this good aged Admirall ſecurely reading a petition, was ſuddenly ſhot at with a Harguebuſe, which inſtantly tooke off the forefinger of his right hand, and ſorely wounded his left arme; whereof the King being preſently certified by the King of Navarr and the Prince of Conde, ô how he ſwore and tooke on, for ſeeming ſorrow! ô how he vowed with moſt bitter execrations to take ſuch ſpeedy and ſevere revenge on the actors of this outrage, as to make his juſtice exemplary to all the world, and fully ſatisfactory to the good Admirall and all his friend<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! Whereupon great ſearch was made, and the Harguebuſe found, but the actor having a brave Spaniſh gennet at the doore below waiting on him, was fled and gone, and there was all was done. For, all this proved but a prepara<g ref="char:EOLhyphen"/>tory to a far more bloody Scene and accurſed Cataſtrophe, now inſtantly intended: for now, the good Admirall being conveyed into a bed-chamber for cure, within a day or two, at moſt, after this, the Duke of Guiſe (by the full conſent of King <hi>Charles,</hi> the Queen-mother, and others privy to the plot) ſet ſtrong guards of Swiſſers and ſuch like bloody villaines about the Admirals lodgings and bed-chamber, whereinto a ſervant of the ſaid Dukes firſt boldly enters, and with a naked Sword runnes at the good aged Admi<g ref="char:EOLhyphen"/>rall, as he lay wounded in his bed, and inſtantly and deſperately thruſt him through his body with his Sword, then doubles the blow on his head, ano<g ref="char:EOLhyphen"/>ther ſhoots him into the body with a piſtoll, a third ſorely wounds him on his legs as he lay, and then they caſt that moſt Noble and renowned perſo<g ref="char:EOLhyphen"/>nage dead on the floore, whom living and in health, the proudeſt papiſt in France durſt not (in a martiall w<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y) looke in the face. This done, the devilliſh Duke of Guiſe cauſed his dead body to be caſt out of the win<g ref="char:EOLhyphen"/>dow to him, into the ſtreet, and thoſe butcherly villaines hurld him downe headlong unto him, who having wiped the blood from his beſmea<g ref="char:EOLhyphen"/>red face, he ſaid, <hi>Now I know tis he,</hi> and ſo deſpightfully ſpurning him with his foot, he left him, and then ſet forward the reſt of the murtherous and maſſacring work all over <hi>Paris:</hi> in which interim, they left not this noble Admirall, thus, but an <hi>Italian</hi> (of the Duke of <hi>Nevers</hi> houſhould, one of the complotters) cut off his head, and inſtantly carried it to the King and Queene-Mother, who joyfully cauſing it to be enbalmed ſent it ſhortly
+<pb n="5" facs="tcp:51533:3"/>
+after, as a choice preſent to the Pope, for an aſſurance of the death of his moſt capitall enemy in <hi>France.</hi> Nay the rage of theſe French Romiſh Tygers reſted not here, but like ſo many mad-Dogs, the reſt of the ignoble rabble ran to his dead Corps, and one cuts off his hands, another his privy-members, and for the ſpace of three dayes, they dragged his dead carkaſle (as the Grecians did <hi>Hectors</hi> about the walls of Troy) with all inhumane indignity, through the ſtreets of Paris, and then hang'd up his (thus) poore mangled body, by the heels on a Gibbet, and ceaſed not this moſt horrid and helliſh maſſacre, till they had moſt lamentably murthered at leaſt 10000 Proteſtants, men, wo<g ref="char:EOLhyphen"/>men and children in Paris, beſides many thouſands more in other parts of <hi>France,</hi> at the ſame time. Yea and yet to adde more to all the impiety of this popiſh (&amp; therfore faithleſſe) King: He ſending, now for the King of <hi>Navarr</hi> and the Prince of <hi>Conde,</hi> gave them both to underſtand, even from himſelfe, that all this was done by his own ſpeciall command, and with all, perempto<g ref="char:EOLhyphen"/>rily reſolved the death of both theſe young Princes too, if they on his threats had not (as wretchedly they did) renounced their religion, turning Romiſh Catholike (againſt the light of their conſciences) to ſave their lives and en<g ref="char:EOLhyphen"/>joy their honours. And thus you have ſummarily ſeen the ſad effects of this moſt perfidious princes former deepe vowes, promiſes and proteſtations; And therefore, let all the World judge, whether, in this caſe, that be not moſt true.</p>
+            <l>Jurat? Crede minus, non jurat, credere noli;</l>
+            <l>Iurat, non jurat hoſtis, ab hoſte cave.</l>
+            <p>
+               <hi>That is;</hi>
+            </p>
+            <l>Does thy foe ſwear? none of his Oathes believe;</l>
+            <l>Swears he, or ſweares he not; fear, hee'll deceive.</l>
+            <p>The other example is little inferiour to this former, for Popiſh barbari<g ref="char:EOLhyphen"/>ty, and perfidious diſloyalty, and that was of <hi>Ferdinando,</hi> late Emperour of Germany, father of the now preſent Emperour, which in brief was thus.</p>
+            <p>After that this <hi>Ferdinando</hi> had (for his diſloyall violation of the Bohe<g ref="char:EOLhyphen"/>mian Lawes &amp; immunities, eſpecially by introducing the Jeſuits among them to tyrannize over their Bodies Eſtates and Conſciences) been depoſed and diſpoſſeſſed of that Kingdom; (over which, being Electorate, the Nobility &amp; whole State of Bohemia had choſen him their King) afterward by the un<g ref="char:EOLhyphen"/>animous conſent of the ſaid Nobles and Magiſtrates, the Prince Palatine of the Rhine, unhappy ſon in Law to King <hi>Iames</hi> of England, was in his ſtead choſen to be their King, according to the fundamentall Lawes and power of that Kingdome: But not long after it ſo pleaſed the Lord (the Almighty and moſt wiſe diſpoſer of all things) that at the great battell fought neere Prague by <hi>Bucquoy,</hi> the ſaid Emperours Generaliſſimo, the Palſgrave, the fore<g ref="char:EOLhyphen"/>ſaid new elected King of Bohemia's forces were quite defeated and over<g ref="char:EOLhyphen"/>throwne by the ſaid <hi>Bucquoy;</hi> and, thereby, the famous and ancient City of Prague was reduced by conqueſt to the obedience of <hi>Ferdinando,</hi> this being
+<pb n="6" facs="tcp:51533:4"/>
+about 24 or 25 yeares agoe. Now the Emperour though thus re-eſtated, by the ſword, and in ſome meaſure re-eſtabliſhed in the Bohemian throne, yet, in the firſt place, to weave and inſinuate himſelfe the more into the hearts and affections of the Nobility (for the more ſure and infallible effecting of his ſecretly intended deviliſh deſigne) and the heads of the Inhabitants of that City, which was the metropolis of that whole Kingdome; he thought it moſt fit, and accordingly put in practiſe with dexterious Machivilian craft and policy, to make moſt deepe vowes, proteſtations, and promiſes of full and free pardon and mercy for what was paſt, and a fuller fruition and en<g ref="char:EOLhyphen"/>joyment of his love and favour and of their rites and priviledges, than ever formerly they had enjoyed from any of his predeceſſours: which hee accordingly forthwith performed with all preſent poſſible confirmations, and carried himſelfe in a very plauſible and exceeding well pleaſing deport<g ref="char:EOLhyphen"/>ment, every way, to them, for the ſpace of above one halfe yeare, at the leaſt. But, at laſt, about the expiration of a ſuch like diſtance of time, the Emperour pretending ſome important and weighty affaires of the Kingdome to be conſulted of and conſented to by him and his whole Nobility, for the more ſucceſſefull and peacefull ſettlement of the ſtate of the Kingdome and their immunities, he ſummoned them all that were, then, abſent from the City, to make their appearance at Prague, at a day and time prefixed, who (by rea<g ref="char:EOLhyphen"/>ſon of the Emperours ſo faire and friendly carriage to them, all this while, and there ſo full and free enjoyment of their promiſed priviledges and law<g ref="char:EOLhyphen"/>full immunities) not ſuſpecting any evill, much leſſe ſuch a bloody Trage<g ref="char:EOLhyphen"/>dy to be acted on them, as afterward they found and felt, in obedience to his Imperiall Majeſties command and gratitude for his great favours, they readily and cheerefully aſſembled together according to their ſummons at Prague; where being met, together with the magiſtrates of the City, and moſt kindly ſaluted and entertained with all expreſſions of ſeeming love and affection, within a day or two after, they were all by a ſtrong guard of armed ſouldiers, prepared and appointed thereunto, unexpectedly brought upon a great ſtage, privately built up and prepared for this purpoſe, where the headſman ſtood ready; and they all, thus ſodainly enſnared and utterly unarmed, both prime Nobility and chiefe Magiſtrates of this City, who had had a hand in the Emperours former depoſing and expulſion, did every man of them ſuffer the loſſe of his life, by the fury of a treacherous ſword; and (which makes the abomination of this perfidious cruelty and treach<g ref="char:EOLhyphen"/>ery the more odious and execrable) the Emperour had appointed and pla<g ref="char:EOLhyphen"/>ced about 60 D<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ummers underneath the ſtage, who (much like the cruelty of that tyrannicall Emperour <hi>Phalaris,</hi> with <hi>Perillus</hi> his roaring brazen-Bull) ſhould with inceſſant importunity, beat upon and rattle their D<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ums, du<g ref="char:EOLhyphen"/>ring all the time of the Execution, that ſo the noiſe, cries or complaints
+<pb n="7" facs="tcp:51533:4"/>
+of all theſe innocent Nobles and Gentlemen dying on the ſtage above, might not be heard or pittied, in their juſt exclamations of the Machavilian and moſt abominable craft and cruelty executed on them. But, in vaine did this faithleſſe Emperour <hi>Ferdinando</hi> thinke to keep that from the eares and knowledge of men which had already with a crying noiſe (like murthered <hi>Abels</hi> innocent bloud) reached the eares of the omniſcient and bloud<g ref="char:EOLhyphen"/>avenging God, who ſoone cut ſhort the thread of his life, and ever ſince and before his Death made hiswhole moſt unhappy Empire to him and to his bloudy Son after him a lamentable Golgotha and ſtage of little elſe but ra<g ref="char:EOLhyphen"/>pine, ruine and deſtruction. Now, both theſe ſo pregnant preſidents and ex<g ref="char:EOLhyphen"/>amples, ſo eminently pertinent to our preſent times may be (me thinks) moſt remarkeable Memento's and worthy warning<g ref="char:punc">▪</g>peeces to us in England, even to our moſt renowned Lords and Commons in Parliament, and to the moſt loyall and active eminent Citizens of <hi>London,</hi> to take ſpeciall and extraor<g ref="char:EOLhyphen"/>dinary care, and with great wiſdome and circumſpection to be very cautious and heedfull what Peace they make, and what vowes, promiſes and deepeſt proteſtations (though backt with ever ſo heart-amazing curſes) and execra<g ref="char:EOLhyphen"/>tions they truſt and reſt on, whereof already the rotten-hearted Royaliſts and Atheiſticall crew of impious Oxonian Malignants have not been wanting, and all in the Kings Name, at leaſt, to cheat, gull, and abuſe the Kingdome and bring our precious Patriots into their baſe and bloudy ſnares, and all forſooth under a colour and pernicious pretext of Peace and future ſafety and ſecurity, whereas indeed they intend nothing leſſe, and ayme at nothing more, than the ruine and deſtruction of their precious Lives and Eſtates, and (which is moſt deare to them, and us all) the extirpation of the true religion. And ſo much the rather do I the more ſeriouſly deſire to preſſe this ſeaſon<g ref="char:EOLhyphen"/>able caution, at this time, becauſe, even now already (as indeed it hath beene the conſtant practiſe of our Oxonian adverſaries in all the times of their pre<g ref="char:EOLhyphen"/>tended Treaties) they apparently ſhew they goe but about to cheat and gull us to our faces, with bare ſhewes and pretences of peace and all well meaning towards us, having, indeed, honey and butter (an acknowledgement of our Parliament at <hi>Weſtminſter</hi> to be the parliament of <hi>England)</hi> on the tip of their Tongues, but gall and wormwood at the root of their hearts: nothing but pence, pacifications and priviledges, at that time, when Branford ſorely bleeds, Briſtoll muſt be betray'd and divers dangerous <hi>Fine-deſignes</hi> are ſet on foot, yea, ſo many and ſo miſcheivous, that they know not which to ſet upon firſt, thus, heretofore and all along. And is it better or is there <hi>fairer play above board,</hi> now ad<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies than hath been heeretofore. If it be ſo, let Reding, Lyn-re<g ref="char:EOLhyphen"/>gis, Plimouth, Abington and Dover, at this time witneſſe, even now in the nick of time of this preſent pretended, accommodation and treaty of peace wherein, let all the World judge (with us) if they aim at any thing els, than
+<pb n="8" facs="tcp:51533:5"/>
+groſ<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y to gull <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and (as the ſad and bad Cataſtrophe of all) to get us into their treacherous trap and pernicious pit-fall, for certaine ruine and a mer<g ref="char:EOLhyphen"/>cileſſe maſſacre even of all the beſt and moſt honeſt and loyall ſubjects of the whole Kingdome; and hereof, truly, we have had, I ſay, too foule and fre<g ref="char:EOLhyphen"/>quent experiences, namely, that their diſſembled words of peace have ever done us more miſchiefe than all their ſharpeſt ſwords of War. And if they have been thus hot, haſty and fool-hardy after the murther and maſſacring of the Kingdomes moſt innocent ones (witneſſe, with the reſt, that deſperate and moſt bloudy deſigne of <hi>Ianuary</hi> the fourth 1641 in the houſe of Com<g ref="char:EOLhyphen"/>mons in Parliament, countenanced and attempted with our King <hi>Charles</hi> his own perſon) apparently to our faces, even then, and now (though now ada<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es more craftily) when we have power to oppoſe them. O what may we fear for the future, when they may have fully or ra<g ref="char:EOLhyphen"/>ther foulely and faithleſly got our famous Patriots (by a fallacious accommodation) into their reſiſtleſſe pawes and power, as thoſe forementioned moſt memorable examples have remarkably manifeſted, tis poſſible may be. Certainly a little length of time is not like to leſ<g ref="char:EOLhyphen"/>ſen their inteſtine malice and malignity, but believe that to be moſt true which the Poet ſung of <hi>Juno,</hi> (with a little inverſion) <hi>Manet alta mente repoſita, Invidia Principum.</hi> And let, I ſay, all popiſhly and atheiſtically principled Princes, and their ſemblable adherents proteſt and pre<g ref="char:EOLhyphen"/>tend what they pleaſe and what they can, let us in the ſtrength and wiſdom of our God, ſtand wiſely alwaies on our guard, and ſtill look on them all with juſt and moſt jelous vigilancy, ſuſpition and circumſpection, having oft in remembrance that pretty and pertinent apology (which I have read) of the Cat and the Mice, with which I will conclude all I have h<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erin to ſay, which is thus related. The Cat having along time craftily preyed upon Mice, the poore creatures, at laſt, for their ſafety contained themſelves within their holes; but the Cat finding his prey to ceaſe, as being too well known to the Mice that he was their inveterate enemy, and a Cat; he deviſeth this courſe following, viz. He changeth his hue, getteth on a religious habite, ſhaveth his crown, and walkes gravely by the holes: And yet, perceiving that the Mice ſtill kept their holes, and looking out ſuſpected the worſt, he moſt formally &amp; fatherly ſaid un<g ref="char:EOLhyphen"/>to them <hi>Quod ſueram non ſii, frater, caput aſp<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce tonſum;</hi> that is, <hi>I am not (brothers) as I was want to be, No more a Cat, my coat and ſhorncrown ſee.</hi> Hereupon, ſome of the more credulous and bold mice among them ventured forth; and were preſently ſnatch'd up and devoured: But the reſt ſeing this, when afterwards the Cat came, thus, to intice them againe, to come forth, they would no more adventure out, but when he call'd unto them, as before, they kept in and anſwered, <hi>Cor tibi reſtat idem, vix tibi praeſto ſidem. Talke what you can, we will you not believe, you ſtill retaine a Cats heart to deceive.</hi> Thus let us (as Solomon adviſes the ſluggard to learne of the Piſmire) learn vigilancy of theſe Mice; And when we deale with diſſemblers (as now we do) let us wiſely and warily conſider, that the beſt, ſafeſt and ſureſt way (by Gods bleſſing and aſſiſtance) is, that old and plain well known rule, <hi>faſt bind, faſt find.</hi> Yet, truſt and ſeek God herein, above all; But, put no confidence in popiſhly affected Princes or Machivilianly principled Courtiers or malignants. Now the God of grace and wiſdom make us all wiſe unto ſalvation, and give our moſt honorable and pious Patriots underſtanding in all things. <hi>Amen</hi> and <hi>Amen.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <l>Tuta frequenſque via eſt per amici fallere nomen:</l>
+                  <l>Tuta frequenſque licet ſit via, crim<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n habeat. <hi>That is</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>A ſafe and common way it is through friendſhip to deceive:</l>
+                  <l>As ſafe and common as it is, tis knavery by your leave.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>I. V.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>Ja. Cranford.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>I. Rothwell.</hi> 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
